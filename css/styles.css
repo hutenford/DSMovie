@@ -46,6 +46,8 @@ a, a:hover {
 .dsmovie-contact-container {
     display: flex;
     align-items: center;
+    font-size: 12px;
+    font-weight: 400;
 }
 
 .dsmovie-contact-container img {
